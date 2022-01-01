@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d54ca02f5940ae14fb11d924914d0c1f, type: 3}
+  m_Name: Riffle
+  m_EditorClassIdentifier: 
+  Name: Riffle
+  FiringSpeed: 0.15
+  Damage: 20
+  Recoil: 7
+  KickBack: 0.15
+  AimSpeed: 20
+  Bloom: 20
+  Ammo: 20
+  ClipSize: 8
+  ReloadTime: 1.5
+  prefabs: {fileID: 9154904507274695700, guid: e3df2f33be13b394a85a30f2f5c9ce4a, type: 3}
